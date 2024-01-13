@@ -35,6 +35,7 @@
     "eventsource-parser": "^1.1.1",
     "lucide-react": "^0.307.0",
     "next": "14.0.4",
+    "openai": "^4.24.7",
     "react": "^18",
     "react-dom": "^18",
     "react-hot-toast": "^2.4.1",
