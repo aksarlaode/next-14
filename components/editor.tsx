@@ -5,7 +5,6 @@ import { BlockNoteView } from "@blocknote/shadcn";
 import "@blocknote/shadcn/style.css";
 
 import * as Button from "@/components/ui/button";
-import * as Form from "@/components/ui/form";
 import * as Badge from "@/components/ui/badge";
 import * as Card from "@/components/ui/card";
 import * as DropdownMenu from "@/components/ui/dropdown-menu";
@@ -26,7 +25,6 @@ function Editor() {
       editor={editor}
       shadCNComponents={{
         Button,
-        Form,
         Badge,
         Card,
         DropdownMenu,
